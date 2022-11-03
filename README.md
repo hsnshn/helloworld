@@ -7,3 +7,4 @@
 *italic*
 this is mine first repository
 🍕
+☕
